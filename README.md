@@ -14,7 +14,7 @@ A centralized academic resource platform for college students to access syllabi,
 
 ## 🛠️ Tech Stack
 
-* React.js
+* HTML ,CSS ,JS
 * Netlify
 
 ---
